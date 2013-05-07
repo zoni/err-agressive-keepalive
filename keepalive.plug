@@ -1,0 +1,3 @@
+[Core]
+Name = Agressive Keepalive
+Module = keepalive
