@@ -3,8 +3,7 @@ err-agressive-keepalive
 
 A plugin which sends additional keepalive messages every 30 seconds.
 
-Useful with some broken XMPP servers which timeout really quickly
-(such as HipChat).
+Note: This plugin is obsolete as of [7493d48](https://github.com/gbin/err/commit/7493d4807dedf48fedb646ad2a0a34fc566981cd)
 
 Usage
 -----
